@@ -1,0 +1,14 @@
+1001 Snickers 75
+3033 StarbucksBlend 699
+2222 ChipsAhoy 329
+9212 LargeTShirt 1599
+1234 DozenEggs 369
+5545 Clementines 799
+3222 Orowheatbread 499
+5122 RedGrapes 549
+1121 VanillaYogurt 75
+2121 PlantersPeanutsSalt 802
+4424 PanteneShampoo -633
+8000 FredMeyerGiftCard 5000
+1121 VanillaOldYogurtValueReuseOfNumber 999
+5643 PradaSpeedWalkers 100000
