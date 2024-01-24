@@ -1,2 +1,3 @@
 # CS305_HW4_Cart
+The key motivation for this assignment is to illustrate the use of tree datastructure to support the fast searches of the linked lists. A very similar implementation of search trees is commonly used by relational databases to build the search indexes for fast information lookup. Object oriented databases also organize their data objects first in a LList then they build one tree per search criteria. Think about Amazon or Netflix – find product in shoes department or browse shows by genre will likely implement a tree like indexing into a LList like storage of items.
 Your job is to make two search trees that will reference the LList objects for fast lookup.
